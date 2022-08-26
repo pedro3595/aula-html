@@ -1,0 +1,9 @@
+.destaque {
+    color: purple;
+}
+p {
+    color: red; 
+    font-size: 38px;
+    font-family: monospace;
+    font-weight: 900;
+}
